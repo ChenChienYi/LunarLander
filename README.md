@@ -18,10 +18,10 @@ After training for [your number] episodes, the DQN agent was able to:
 - Reduce training loss over time, indicating stable convergence
 
 ### Reward Curve
-![Reward Plot](LunarLander/trainingrewards.png)
+![Reward Plot](trainingrewards.png)
 
 ### Loss Curve
-![Loss Plot](LunarLander/trainingloss.png)
+![Loss Plot](trainingloss.png)
 
 ### Demonstration
-![Agent in Action](LunarLander/lunar_lander_dqn.gif)
+![Agent in Action](lunar_lander_dqn.gif)
